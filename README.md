@@ -166,3 +166,6 @@ vercel --prod
 ```
 
 The `vercel.json` is pre-configured for Python deployment.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/markdown-table-generator/main/postman_collection.json)
